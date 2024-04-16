@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-✨ eCommerce, Magento, Shopify, React, Node, Python, AI, ML, NLP and etc ✨
+CEO SaVa.Team | Co-Founder USAva.Team | Architect/Senior Team Lead
+✨ eCommerce, React, Node, Python, Blockchain, AI, ML, NLP, iOS, Android and etc ✨
 
 [![telegram](https://img.shields.io/badge/@vladimir_savrov%20-black?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vladimir_savrov)
 
